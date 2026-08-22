@@ -1,4 +1,4 @@
-# KaoniPro<h1 align="center">Hi 👋, I'm Kaoni Rhodes</h1>
+# KaoniPro<h1 align="center">Hi 👋, I'm Kaoni</h1>
 <h3 align="center">I lead at the intersection of technology, compliance, and conscience. I build systems that don't just check boxes, but genuinely serve people, communities, governance, and yes, I'll say it, the planet. My specialty isn't a specialty. I've built real depth across a wide range of disciplines, not by picking one lane and staying in it, but by moving fluently between them, because the problems worth solving never stay in their lane either. Call it versatility. Call it curiosity with follow through. Depth is nice. Range is power. I've built both.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreatorbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="kreatorbuilds" /> </p>
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Automating compliance evidence and control monitoring**
 
-- 🌱 I’m currently learning AI Governance and how to build GRC engineering **IAPP AI Governance, GRC Engineering**
+- 🌱 I’m currently becoming AI Governance certified through IAPP and supporting the growth of GRC engineering **IAPP AI Governance, GRC Engineering**
 
 - 📫 How to reach me **krhodes.ai@gmail.com**
 
-- ⚡ Fun fact **I believe discernment is a gift! Still laugh and have fun.**
+- ⚡ Fun fact **I believe discernment is a gift, while still laughing and having fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
